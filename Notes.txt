@@ -1,0 +1,15 @@
+Method1 and method3 have different results. This is because they have different assumptions:
+
+Assumptions made in method1:
+1. In 2030, private parking percent and curbside percent are the same as those in 2009.
+(This is a very strong assumption, which assumes AV has no impact in parking and curbside percent and their relative ratio)
+
+
+
+Assumptions made in method3 (adaptive):
+1. In 2030, the sum of percent of private parking and curbside is the same as that of 2009.
+
+2. In 2030, with AV adoption (say 60%):
+ 2.1) for the 40% non-AV, the percent of private parking and percent of curbside is the same as 2009
+ 2.2) for the 60% AV, the sum of percent of private parking and percent of curbside is not changing. The ratio between them is from the output of 55% AV.
+
